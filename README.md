@@ -1,3 +1,6 @@
 # Practica_en_Grupo
+
 ## Primera linea de este proyecto 
-## Fin de la transmision
+Cambios realizados por el PRIVATE DEVELOPER Iker
+## Fin de la transmision 
+
